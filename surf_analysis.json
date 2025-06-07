@@ -1,0 +1,2115 @@
+{
+  "video_analysis": {
+    "total_detections": 410,
+    "maneuvers_found": [
+      "top_turn",
+      "floater",
+      "bottom_turn",
+      "cutback",
+      "kick_out",
+      "take_off"
+    ],
+    "detailed_analysis": {
+      "top_turn": {
+        "detected_count": 184,
+        "max_confidence": 0.7,
+        "avg_confidence": 0.700000000000002,
+        "detections": [
+          {
+            "timestamp": 18.9,
+            "confidence": 0.7,
+            "frame_number": 567
+          },
+          {
+            "timestamp": 18.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 568
+          },
+          {
+            "timestamp": 18.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 569
+          },
+          {
+            "timestamp": 19.0,
+            "confidence": 0.7,
+            "frame_number": 570
+          },
+          {
+            "timestamp": 19.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 571
+          },
+          {
+            "timestamp": 19.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 572
+          },
+          {
+            "timestamp": 19.1,
+            "confidence": 0.7,
+            "frame_number": 573
+          },
+          {
+            "timestamp": 19.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 574
+          },
+          {
+            "timestamp": 19.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 575
+          },
+          {
+            "timestamp": 19.2,
+            "confidence": 0.7,
+            "frame_number": 576
+          },
+          {
+            "timestamp": 19.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 577
+          },
+          {
+            "timestamp": 19.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 578
+          },
+          {
+            "timestamp": 19.3,
+            "confidence": 0.7,
+            "frame_number": 579
+          },
+          {
+            "timestamp": 19.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 583
+          },
+          {
+            "timestamp": 19.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 584
+          },
+          {
+            "timestamp": 20.1,
+            "confidence": 0.7,
+            "frame_number": 603
+          },
+          {
+            "timestamp": 20.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 604
+          },
+          {
+            "timestamp": 20.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 605
+          },
+          {
+            "timestamp": 20.2,
+            "confidence": 0.7,
+            "frame_number": 606
+          },
+          {
+            "timestamp": 20.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 607
+          },
+          {
+            "timestamp": 20.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 608
+          },
+          {
+            "timestamp": 20.3,
+            "confidence": 0.7,
+            "frame_number": 609
+          },
+          {
+            "timestamp": 20.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 610
+          },
+          {
+            "timestamp": 20.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 611
+          },
+          {
+            "timestamp": 20.4,
+            "confidence": 0.7,
+            "frame_number": 612
+          },
+          {
+            "timestamp": 20.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 613
+          },
+          {
+            "timestamp": 20.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 614
+          },
+          {
+            "timestamp": 20.5,
+            "confidence": 0.7,
+            "frame_number": 615
+          },
+          {
+            "timestamp": 20.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 616
+          },
+          {
+            "timestamp": 20.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 617
+          },
+          {
+            "timestamp": 20.6,
+            "confidence": 0.7,
+            "frame_number": 618
+          },
+          {
+            "timestamp": 20.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 619
+          },
+          {
+            "timestamp": 20.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 620
+          },
+          {
+            "timestamp": 20.7,
+            "confidence": 0.7,
+            "frame_number": 621
+          },
+          {
+            "timestamp": 20.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 622
+          },
+          {
+            "timestamp": 20.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 623
+          },
+          {
+            "timestamp": 20.8,
+            "confidence": 0.7,
+            "frame_number": 624
+          },
+          {
+            "timestamp": 20.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 625
+          },
+          {
+            "timestamp": 20.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 626
+          },
+          {
+            "timestamp": 20.9,
+            "confidence": 0.7,
+            "frame_number": 627
+          },
+          {
+            "timestamp": 23.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 710
+          },
+          {
+            "timestamp": 23.7,
+            "confidence": 0.7,
+            "frame_number": 711
+          },
+          {
+            "timestamp": 23.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 712
+          },
+          {
+            "timestamp": 23.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 713
+          },
+          {
+            "timestamp": 23.8,
+            "confidence": 0.7,
+            "frame_number": 714
+          },
+          {
+            "timestamp": 23.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 715
+          },
+          {
+            "timestamp": 23.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 719
+          },
+          {
+            "timestamp": 24.0,
+            "confidence": 0.7,
+            "frame_number": 720
+          },
+          {
+            "timestamp": 24.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 721
+          },
+          {
+            "timestamp": 24.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 722
+          },
+          {
+            "timestamp": 24.1,
+            "confidence": 0.7,
+            "frame_number": 723
+          },
+          {
+            "timestamp": 24.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 724
+          },
+          {
+            "timestamp": 24.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 725
+          },
+          {
+            "timestamp": 24.2,
+            "confidence": 0.7,
+            "frame_number": 726
+          },
+          {
+            "timestamp": 24.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 727
+          },
+          {
+            "timestamp": 24.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 728
+          },
+          {
+            "timestamp": 24.3,
+            "confidence": 0.7,
+            "frame_number": 729
+          },
+          {
+            "timestamp": 24.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 730
+          },
+          {
+            "timestamp": 24.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 731
+          },
+          {
+            "timestamp": 24.4,
+            "confidence": 0.7,
+            "frame_number": 732
+          },
+          {
+            "timestamp": 24.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 733
+          },
+          {
+            "timestamp": 24.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 734
+          },
+          {
+            "timestamp": 24.5,
+            "confidence": 0.7,
+            "frame_number": 735
+          },
+          {
+            "timestamp": 24.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 736
+          },
+          {
+            "timestamp": 24.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 737
+          },
+          {
+            "timestamp": 24.6,
+            "confidence": 0.7,
+            "frame_number": 738
+          },
+          {
+            "timestamp": 24.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 739
+          },
+          {
+            "timestamp": 24.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 740
+          },
+          {
+            "timestamp": 25.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 769
+          },
+          {
+            "timestamp": 25.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 770
+          },
+          {
+            "timestamp": 25.7,
+            "confidence": 0.7,
+            "frame_number": 771
+          },
+          {
+            "timestamp": 25.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 772
+          },
+          {
+            "timestamp": 25.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 773
+          },
+          {
+            "timestamp": 25.8,
+            "confidence": 0.7,
+            "frame_number": 774
+          },
+          {
+            "timestamp": 25.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 775
+          },
+          {
+            "timestamp": 25.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 776
+          },
+          {
+            "timestamp": 25.9,
+            "confidence": 0.7,
+            "frame_number": 777
+          },
+          {
+            "timestamp": 25.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 778
+          },
+          {
+            "timestamp": 25.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 779
+          },
+          {
+            "timestamp": 26.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 803
+          },
+          {
+            "timestamp": 26.8,
+            "confidence": 0.7,
+            "frame_number": 804
+          },
+          {
+            "timestamp": 26.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 805
+          },
+          {
+            "timestamp": 26.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 806
+          },
+          {
+            "timestamp": 26.9,
+            "confidence": 0.7,
+            "frame_number": 807
+          },
+          {
+            "timestamp": 26.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 808
+          },
+          {
+            "timestamp": 26.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 809
+          },
+          {
+            "timestamp": 27.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 811
+          },
+          {
+            "timestamp": 27.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 812
+          },
+          {
+            "timestamp": 27.1,
+            "confidence": 0.7,
+            "frame_number": 813
+          },
+          {
+            "timestamp": 27.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 814
+          },
+          {
+            "timestamp": 27.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 815
+          },
+          {
+            "timestamp": 27.2,
+            "confidence": 0.7,
+            "frame_number": 816
+          },
+          {
+            "timestamp": 27.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 817
+          },
+          {
+            "timestamp": 27.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 818
+          },
+          {
+            "timestamp": 27.4,
+            "confidence": 0.7,
+            "frame_number": 822
+          },
+          {
+            "timestamp": 27.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 823
+          },
+          {
+            "timestamp": 27.5,
+            "confidence": 0.7,
+            "frame_number": 825
+          },
+          {
+            "timestamp": 27.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 826
+          },
+          {
+            "timestamp": 27.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 827
+          },
+          {
+            "timestamp": 27.6,
+            "confidence": 0.7,
+            "frame_number": 828
+          },
+          {
+            "timestamp": 27.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 829
+          },
+          {
+            "timestamp": 27.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 830
+          },
+          {
+            "timestamp": 27.7,
+            "confidence": 0.7,
+            "frame_number": 831
+          },
+          {
+            "timestamp": 27.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 832
+          },
+          {
+            "timestamp": 27.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 833
+          },
+          {
+            "timestamp": 27.8,
+            "confidence": 0.7,
+            "frame_number": 834
+          },
+          {
+            "timestamp": 27.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 835
+          },
+          {
+            "timestamp": 27.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 836
+          },
+          {
+            "timestamp": 27.9,
+            "confidence": 0.7,
+            "frame_number": 837
+          },
+          {
+            "timestamp": 27.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 838
+          },
+          {
+            "timestamp": 27.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 839
+          },
+          {
+            "timestamp": 28.0,
+            "confidence": 0.7,
+            "frame_number": 840
+          },
+          {
+            "timestamp": 28.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 841
+          },
+          {
+            "timestamp": 28.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 842
+          },
+          {
+            "timestamp": 28.1,
+            "confidence": 0.7,
+            "frame_number": 843
+          },
+          {
+            "timestamp": 28.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 844
+          },
+          {
+            "timestamp": 28.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 845
+          },
+          {
+            "timestamp": 28.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 854
+          },
+          {
+            "timestamp": 28.5,
+            "confidence": 0.7,
+            "frame_number": 855
+          },
+          {
+            "timestamp": 28.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 856
+          },
+          {
+            "timestamp": 28.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 857
+          },
+          {
+            "timestamp": 28.6,
+            "confidence": 0.7,
+            "frame_number": 858
+          },
+          {
+            "timestamp": 28.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 859
+          },
+          {
+            "timestamp": 28.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 860
+          },
+          {
+            "timestamp": 28.7,
+            "confidence": 0.7,
+            "frame_number": 861
+          },
+          {
+            "timestamp": 28.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 862
+          },
+          {
+            "timestamp": 28.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 863
+          },
+          {
+            "timestamp": 28.8,
+            "confidence": 0.7,
+            "frame_number": 864
+          },
+          {
+            "timestamp": 28.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 865
+          },
+          {
+            "timestamp": 31.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 935
+          },
+          {
+            "timestamp": 31.2,
+            "confidence": 0.7,
+            "frame_number": 936
+          },
+          {
+            "timestamp": 31.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 937
+          },
+          {
+            "timestamp": 31.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 938
+          },
+          {
+            "timestamp": 31.3,
+            "confidence": 0.7,
+            "frame_number": 939
+          },
+          {
+            "timestamp": 31.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 940
+          },
+          {
+            "timestamp": 31.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 941
+          },
+          {
+            "timestamp": 31.4,
+            "confidence": 0.7,
+            "frame_number": 942
+          },
+          {
+            "timestamp": 31.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 943
+          },
+          {
+            "timestamp": 31.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 944
+          },
+          {
+            "timestamp": 31.5,
+            "confidence": 0.7,
+            "frame_number": 945
+          },
+          {
+            "timestamp": 31.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 946
+          },
+          {
+            "timestamp": 31.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 947
+          },
+          {
+            "timestamp": 31.6,
+            "confidence": 0.7,
+            "frame_number": 948
+          },
+          {
+            "timestamp": 31.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 949
+          },
+          {
+            "timestamp": 31.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 950
+          },
+          {
+            "timestamp": 31.7,
+            "confidence": 0.7,
+            "frame_number": 951
+          },
+          {
+            "timestamp": 31.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 952
+          },
+          {
+            "timestamp": 31.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 953
+          },
+          {
+            "timestamp": 31.8,
+            "confidence": 0.7,
+            "frame_number": 954
+          },
+          {
+            "timestamp": 31.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 956
+          },
+          {
+            "timestamp": 31.9,
+            "confidence": 0.7,
+            "frame_number": 957
+          },
+          {
+            "timestamp": 31.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 958
+          },
+          {
+            "timestamp": 31.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 959
+          },
+          {
+            "timestamp": 32.0,
+            "confidence": 0.7,
+            "frame_number": 960
+          },
+          {
+            "timestamp": 32.03333333333333,
+            "confidence": 0.7,
+            "frame_number": 961
+          },
+          {
+            "timestamp": 32.06666666666667,
+            "confidence": 0.7,
+            "frame_number": 962
+          },
+          {
+            "timestamp": 32.1,
+            "confidence": 0.7,
+            "frame_number": 963
+          },
+          {
+            "timestamp": 32.13333333333333,
+            "confidence": 0.7,
+            "frame_number": 964
+          },
+          {
+            "timestamp": 32.166666666666664,
+            "confidence": 0.7,
+            "frame_number": 965
+          },
+          {
+            "timestamp": 32.2,
+            "confidence": 0.7,
+            "frame_number": 966
+          },
+          {
+            "timestamp": 32.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 967
+          },
+          {
+            "timestamp": 32.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 968
+          },
+          {
+            "timestamp": 32.3,
+            "confidence": 0.7,
+            "frame_number": 969
+          },
+          {
+            "timestamp": 32.333333333333336,
+            "confidence": 0.7,
+            "frame_number": 970
+          },
+          {
+            "timestamp": 32.36666666666667,
+            "confidence": 0.7,
+            "frame_number": 971
+          },
+          {
+            "timestamp": 32.4,
+            "confidence": 0.7,
+            "frame_number": 972
+          },
+          {
+            "timestamp": 32.56666666666667,
+            "confidence": 0.7,
+            "frame_number": 977
+          },
+          {
+            "timestamp": 32.6,
+            "confidence": 0.7,
+            "frame_number": 978
+          },
+          {
+            "timestamp": 32.63333333333333,
+            "confidence": 0.7,
+            "frame_number": 979
+          },
+          {
+            "timestamp": 32.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 982
+          },
+          {
+            "timestamp": 32.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 983
+          },
+          {
+            "timestamp": 32.8,
+            "confidence": 0.7,
+            "frame_number": 984
+          },
+          {
+            "timestamp": 32.833333333333336,
+            "confidence": 0.7,
+            "frame_number": 985
+          },
+          {
+            "timestamp": 32.86666666666667,
+            "confidence": 0.7,
+            "frame_number": 986
+          },
+          {
+            "timestamp": 32.9,
+            "confidence": 0.7,
+            "frame_number": 987
+          },
+          {
+            "timestamp": 32.93333333333333,
+            "confidence": 0.7,
+            "frame_number": 988
+          },
+          {
+            "timestamp": 32.96666666666667,
+            "confidence": 0.7,
+            "frame_number": 989
+          },
+          {
+            "timestamp": 33.0,
+            "confidence": 0.7,
+            "frame_number": 990
+          },
+          {
+            "timestamp": 33.03333333333333,
+            "confidence": 0.7,
+            "frame_number": 991
+          },
+          {
+            "timestamp": 33.06666666666667,
+            "confidence": 0.7,
+            "frame_number": 992
+          },
+          {
+            "timestamp": 33.1,
+            "confidence": 0.7,
+            "frame_number": 993
+          },
+          {
+            "timestamp": 33.13333333333333,
+            "confidence": 0.7,
+            "frame_number": 994
+          },
+          {
+            "timestamp": 33.166666666666664,
+            "confidence": 0.7,
+            "frame_number": 995
+          },
+          {
+            "timestamp": 33.2,
+            "confidence": 0.7,
+            "frame_number": 996
+          }
+        ]
+      },
+      "floater": {
+        "detected_count": 80,
+        "max_confidence": 0.7,
+        "avg_confidence": 0.698750000000001,
+        "detections": [
+          {
+            "timestamp": 19.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 593
+          },
+          {
+            "timestamp": 19.8,
+            "confidence": 0.7,
+            "frame_number": 594
+          },
+          {
+            "timestamp": 19.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 595
+          },
+          {
+            "timestamp": 19.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 596
+          },
+          {
+            "timestamp": 19.9,
+            "confidence": 0.7,
+            "frame_number": 597
+          },
+          {
+            "timestamp": 19.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 598
+          },
+          {
+            "timestamp": 19.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 599
+          },
+          {
+            "timestamp": 20.0,
+            "confidence": 0.7,
+            "frame_number": 600
+          },
+          {
+            "timestamp": 20.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 601
+          },
+          {
+            "timestamp": 20.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 602
+          },
+          {
+            "timestamp": 20.1,
+            "confidence": 0.7,
+            "frame_number": 603
+          },
+          {
+            "timestamp": 20.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 604
+          },
+          {
+            "timestamp": 20.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 605
+          },
+          {
+            "timestamp": 20.2,
+            "confidence": 0.7,
+            "frame_number": 606
+          },
+          {
+            "timestamp": 20.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 607
+          },
+          {
+            "timestamp": 20.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 608
+          },
+          {
+            "timestamp": 20.3,
+            "confidence": 0.7,
+            "frame_number": 609
+          },
+          {
+            "timestamp": 20.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 610
+          },
+          {
+            "timestamp": 20.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 611
+          },
+          {
+            "timestamp": 20.4,
+            "confidence": 0.7,
+            "frame_number": 612
+          },
+          {
+            "timestamp": 20.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 613
+          },
+          {
+            "timestamp": 20.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 614
+          },
+          {
+            "timestamp": 21.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 647
+          },
+          {
+            "timestamp": 21.6,
+            "confidence": 0.7,
+            "frame_number": 648
+          },
+          {
+            "timestamp": 21.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 649
+          },
+          {
+            "timestamp": 21.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 650
+          },
+          {
+            "timestamp": 21.7,
+            "confidence": 0.7,
+            "frame_number": 651
+          },
+          {
+            "timestamp": 21.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 652
+          },
+          {
+            "timestamp": 21.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 653
+          },
+          {
+            "timestamp": 21.8,
+            "confidence": 0.7,
+            "frame_number": 654
+          },
+          {
+            "timestamp": 21.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 655
+          },
+          {
+            "timestamp": 21.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 656
+          },
+          {
+            "timestamp": 21.9,
+            "confidence": 0.7,
+            "frame_number": 657
+          },
+          {
+            "timestamp": 21.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 658
+          },
+          {
+            "timestamp": 21.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 659
+          },
+          {
+            "timestamp": 22.0,
+            "confidence": 0.7,
+            "frame_number": 660
+          },
+          {
+            "timestamp": 22.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 661
+          },
+          {
+            "timestamp": 22.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 662
+          },
+          {
+            "timestamp": 22.1,
+            "confidence": 0.7,
+            "frame_number": 663
+          },
+          {
+            "timestamp": 22.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 665
+          },
+          {
+            "timestamp": 23.3,
+            "confidence": 0.7,
+            "frame_number": 699
+          },
+          {
+            "timestamp": 23.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 700
+          },
+          {
+            "timestamp": 23.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 701
+          },
+          {
+            "timestamp": 23.4,
+            "confidence": 0.7,
+            "frame_number": 702
+          },
+          {
+            "timestamp": 23.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 703
+          },
+          {
+            "timestamp": 23.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 704
+          },
+          {
+            "timestamp": 23.5,
+            "confidence": 0.7,
+            "frame_number": 705
+          },
+          {
+            "timestamp": 23.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 706
+          },
+          {
+            "timestamp": 23.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 707
+          },
+          {
+            "timestamp": 23.6,
+            "confidence": 0.7,
+            "frame_number": 708
+          },
+          {
+            "timestamp": 24.2,
+            "confidence": 0.7,
+            "frame_number": 726
+          },
+          {
+            "timestamp": 24.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 727
+          },
+          {
+            "timestamp": 24.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 728
+          },
+          {
+            "timestamp": 26.566666666666666,
+            "confidence": 0.6,
+            "frame_number": 797
+          },
+          {
+            "timestamp": 26.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 809
+          },
+          {
+            "timestamp": 27.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 811
+          },
+          {
+            "timestamp": 27.5,
+            "confidence": 0.7,
+            "frame_number": 825
+          },
+          {
+            "timestamp": 27.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 826
+          },
+          {
+            "timestamp": 27.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 827
+          },
+          {
+            "timestamp": 27.6,
+            "confidence": 0.7,
+            "frame_number": 828
+          },
+          {
+            "timestamp": 27.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 829
+          },
+          {
+            "timestamp": 27.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 830
+          },
+          {
+            "timestamp": 27.7,
+            "confidence": 0.7,
+            "frame_number": 831
+          },
+          {
+            "timestamp": 27.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 832
+          },
+          {
+            "timestamp": 28.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 853
+          },
+          {
+            "timestamp": 28.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 854
+          },
+          {
+            "timestamp": 28.5,
+            "confidence": 0.7,
+            "frame_number": 855
+          },
+          {
+            "timestamp": 28.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 856
+          },
+          {
+            "timestamp": 28.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 857
+          },
+          {
+            "timestamp": 31.2,
+            "confidence": 0.7,
+            "frame_number": 936
+          },
+          {
+            "timestamp": 31.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 937
+          },
+          {
+            "timestamp": 31.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 938
+          },
+          {
+            "timestamp": 31.4,
+            "confidence": 0.7,
+            "frame_number": 942
+          },
+          {
+            "timestamp": 31.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 943
+          },
+          {
+            "timestamp": 31.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 944
+          },
+          {
+            "timestamp": 31.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 959
+          },
+          {
+            "timestamp": 32.03333333333333,
+            "confidence": 0.7,
+            "frame_number": 961
+          },
+          {
+            "timestamp": 32.7,
+            "confidence": 0.7,
+            "frame_number": 981
+          },
+          {
+            "timestamp": 32.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 982
+          },
+          {
+            "timestamp": 32.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 983
+          }
+        ]
+      },
+      "bottom_turn": {
+        "detected_count": 116,
+        "max_confidence": 0.7,
+        "avg_confidence": 0.7000000000000015,
+        "detections": [
+          {
+            "timestamp": 20.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 602
+          },
+          {
+            "timestamp": 20.1,
+            "confidence": 0.7,
+            "frame_number": 603
+          },
+          {
+            "timestamp": 20.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 604
+          },
+          {
+            "timestamp": 20.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 605
+          },
+          {
+            "timestamp": 20.2,
+            "confidence": 0.7,
+            "frame_number": 606
+          },
+          {
+            "timestamp": 20.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 607
+          },
+          {
+            "timestamp": 20.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 608
+          },
+          {
+            "timestamp": 20.3,
+            "confidence": 0.7,
+            "frame_number": 609
+          },
+          {
+            "timestamp": 21.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 653
+          },
+          {
+            "timestamp": 21.8,
+            "confidence": 0.7,
+            "frame_number": 654
+          },
+          {
+            "timestamp": 22.0,
+            "confidence": 0.7,
+            "frame_number": 660
+          },
+          {
+            "timestamp": 22.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 661
+          },
+          {
+            "timestamp": 22.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 662
+          },
+          {
+            "timestamp": 22.1,
+            "confidence": 0.7,
+            "frame_number": 663
+          },
+          {
+            "timestamp": 23.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 710
+          },
+          {
+            "timestamp": 23.7,
+            "confidence": 0.7,
+            "frame_number": 711
+          },
+          {
+            "timestamp": 23.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 718
+          },
+          {
+            "timestamp": 23.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 719
+          },
+          {
+            "timestamp": 24.0,
+            "confidence": 0.7,
+            "frame_number": 720
+          },
+          {
+            "timestamp": 24.033333333333335,
+            "confidence": 0.7,
+            "frame_number": 721
+          },
+          {
+            "timestamp": 24.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 722
+          },
+          {
+            "timestamp": 24.1,
+            "confidence": 0.7,
+            "frame_number": 723
+          },
+          {
+            "timestamp": 24.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 724
+          },
+          {
+            "timestamp": 24.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 725
+          },
+          {
+            "timestamp": 24.2,
+            "confidence": 0.7,
+            "frame_number": 726
+          },
+          {
+            "timestamp": 24.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 727
+          },
+          {
+            "timestamp": 24.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 728
+          },
+          {
+            "timestamp": 24.3,
+            "confidence": 0.7,
+            "frame_number": 729
+          },
+          {
+            "timestamp": 24.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 730
+          },
+          {
+            "timestamp": 24.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 731
+          },
+          {
+            "timestamp": 25.066666666666666,
+            "confidence": 0.7,
+            "frame_number": 752
+          },
+          {
+            "timestamp": 25.1,
+            "confidence": 0.7,
+            "frame_number": 753
+          },
+          {
+            "timestamp": 25.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 754
+          },
+          {
+            "timestamp": 25.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 760
+          },
+          {
+            "timestamp": 25.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 761
+          },
+          {
+            "timestamp": 25.4,
+            "confidence": 0.7,
+            "frame_number": 762
+          },
+          {
+            "timestamp": 25.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 763
+          },
+          {
+            "timestamp": 25.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 764
+          },
+          {
+            "timestamp": 25.5,
+            "confidence": 0.7,
+            "frame_number": 765
+          },
+          {
+            "timestamp": 25.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 766
+          },
+          {
+            "timestamp": 25.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 767
+          },
+          {
+            "timestamp": 25.6,
+            "confidence": 0.7,
+            "frame_number": 768
+          },
+          {
+            "timestamp": 25.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 769
+          },
+          {
+            "timestamp": 25.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 770
+          },
+          {
+            "timestamp": 25.7,
+            "confidence": 0.7,
+            "frame_number": 771
+          },
+          {
+            "timestamp": 25.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 772
+          },
+          {
+            "timestamp": 25.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 773
+          },
+          {
+            "timestamp": 25.8,
+            "confidence": 0.7,
+            "frame_number": 774
+          },
+          {
+            "timestamp": 26.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 787
+          },
+          {
+            "timestamp": 26.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 797
+          },
+          {
+            "timestamp": 26.6,
+            "confidence": 0.7,
+            "frame_number": 798
+          },
+          {
+            "timestamp": 26.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 799
+          },
+          {
+            "timestamp": 26.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 802
+          },
+          {
+            "timestamp": 26.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 803
+          },
+          {
+            "timestamp": 26.8,
+            "confidence": 0.7,
+            "frame_number": 804
+          },
+          {
+            "timestamp": 26.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 806
+          },
+          {
+            "timestamp": 27.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 814
+          },
+          {
+            "timestamp": 27.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 815
+          },
+          {
+            "timestamp": 27.2,
+            "confidence": 0.7,
+            "frame_number": 816
+          },
+          {
+            "timestamp": 27.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 817
+          },
+          {
+            "timestamp": 27.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 818
+          },
+          {
+            "timestamp": 27.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 823
+          },
+          {
+            "timestamp": 27.5,
+            "confidence": 0.7,
+            "frame_number": 825
+          },
+          {
+            "timestamp": 27.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 826
+          },
+          {
+            "timestamp": 27.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 827
+          },
+          {
+            "timestamp": 27.6,
+            "confidence": 0.7,
+            "frame_number": 828
+          },
+          {
+            "timestamp": 27.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 829
+          },
+          {
+            "timestamp": 27.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 830
+          },
+          {
+            "timestamp": 27.7,
+            "confidence": 0.7,
+            "frame_number": 831
+          },
+          {
+            "timestamp": 27.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 832
+          },
+          {
+            "timestamp": 27.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 833
+          },
+          {
+            "timestamp": 28.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 853
+          },
+          {
+            "timestamp": 28.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 854
+          },
+          {
+            "timestamp": 28.5,
+            "confidence": 0.7,
+            "frame_number": 855
+          },
+          {
+            "timestamp": 28.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 856
+          },
+          {
+            "timestamp": 28.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 857
+          },
+          {
+            "timestamp": 28.6,
+            "confidence": 0.7,
+            "frame_number": 858
+          },
+          {
+            "timestamp": 28.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 859
+          },
+          {
+            "timestamp": 28.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 860
+          },
+          {
+            "timestamp": 28.7,
+            "confidence": 0.7,
+            "frame_number": 861
+          },
+          {
+            "timestamp": 29.2,
+            "confidence": 0.7,
+            "frame_number": 876
+          },
+          {
+            "timestamp": 29.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 877
+          },
+          {
+            "timestamp": 29.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 878
+          },
+          {
+            "timestamp": 29.3,
+            "confidence": 0.7,
+            "frame_number": 879
+          },
+          {
+            "timestamp": 29.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 880
+          },
+          {
+            "timestamp": 29.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 881
+          },
+          {
+            "timestamp": 29.4,
+            "confidence": 0.7,
+            "frame_number": 882
+          },
+          {
+            "timestamp": 29.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 883
+          },
+          {
+            "timestamp": 31.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 935
+          },
+          {
+            "timestamp": 31.2,
+            "confidence": 0.7,
+            "frame_number": 936
+          },
+          {
+            "timestamp": 31.233333333333334,
+            "confidence": 0.7,
+            "frame_number": 937
+          },
+          {
+            "timestamp": 31.266666666666666,
+            "confidence": 0.7,
+            "frame_number": 938
+          },
+          {
+            "timestamp": 31.3,
+            "confidence": 0.7,
+            "frame_number": 939
+          },
+          {
+            "timestamp": 31.333333333333332,
+            "confidence": 0.7,
+            "frame_number": 940
+          },
+          {
+            "timestamp": 31.366666666666667,
+            "confidence": 0.7,
+            "frame_number": 941
+          },
+          {
+            "timestamp": 31.4,
+            "confidence": 0.7,
+            "frame_number": 942
+          },
+          {
+            "timestamp": 31.433333333333334,
+            "confidence": 0.7,
+            "frame_number": 943
+          },
+          {
+            "timestamp": 31.466666666666665,
+            "confidence": 0.7,
+            "frame_number": 944
+          },
+          {
+            "timestamp": 31.5,
+            "confidence": 0.7,
+            "frame_number": 945
+          },
+          {
+            "timestamp": 31.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 946
+          },
+          {
+            "timestamp": 31.933333333333334,
+            "confidence": 0.7,
+            "frame_number": 958
+          },
+          {
+            "timestamp": 31.966666666666665,
+            "confidence": 0.7,
+            "frame_number": 959
+          },
+          {
+            "timestamp": 32.0,
+            "confidence": 0.7,
+            "frame_number": 960
+          },
+          {
+            "timestamp": 32.03333333333333,
+            "confidence": 0.7,
+            "frame_number": 961
+          },
+          {
+            "timestamp": 32.06666666666667,
+            "confidence": 0.7,
+            "frame_number": 962
+          },
+          {
+            "timestamp": 32.1,
+            "confidence": 0.7,
+            "frame_number": 963
+          },
+          {
+            "timestamp": 32.13333333333333,
+            "confidence": 0.7,
+            "frame_number": 964
+          },
+          {
+            "timestamp": 32.166666666666664,
+            "confidence": 0.7,
+            "frame_number": 965
+          },
+          {
+            "timestamp": 32.7,
+            "confidence": 0.7,
+            "frame_number": 981
+          },
+          {
+            "timestamp": 32.733333333333334,
+            "confidence": 0.7,
+            "frame_number": 982
+          },
+          {
+            "timestamp": 32.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 983
+          },
+          {
+            "timestamp": 32.8,
+            "confidence": 0.7,
+            "frame_number": 984
+          },
+          {
+            "timestamp": 32.833333333333336,
+            "confidence": 0.7,
+            "frame_number": 985
+          },
+          {
+            "timestamp": 32.86666666666667,
+            "confidence": 0.7,
+            "frame_number": 986
+          },
+          {
+            "timestamp": 32.9,
+            "confidence": 0.7,
+            "frame_number": 987
+          },
+          {
+            "timestamp": 32.93333333333333,
+            "confidence": 0.7,
+            "frame_number": 988
+          }
+        ]
+      },
+      "cutback": {
+        "detected_count": 15,
+        "max_confidence": 0.8,
+        "avg_confidence": 0.7133333333333333,
+        "detections": [
+          {
+            "timestamp": 23.666666666666668,
+            "confidence": 0.8,
+            "frame_number": 710
+          },
+          {
+            "timestamp": 23.7,
+            "confidence": 0.8,
+            "frame_number": 711
+          },
+          {
+            "timestamp": 23.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 713
+          },
+          {
+            "timestamp": 23.8,
+            "confidence": 0.7,
+            "frame_number": 714
+          },
+          {
+            "timestamp": 23.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 715
+          },
+          {
+            "timestamp": 23.866666666666667,
+            "confidence": 0.7,
+            "frame_number": 716
+          },
+          {
+            "timestamp": 25.0,
+            "confidence": 0.7,
+            "frame_number": 750
+          },
+          {
+            "timestamp": 25.1,
+            "confidence": 0.7,
+            "frame_number": 753
+          },
+          {
+            "timestamp": 25.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 754
+          },
+          {
+            "timestamp": 26.766666666666666,
+            "confidence": 0.7,
+            "frame_number": 803
+          },
+          {
+            "timestamp": 29.5,
+            "confidence": 0.7,
+            "frame_number": 885
+          },
+          {
+            "timestamp": 29.533333333333335,
+            "confidence": 0.7,
+            "frame_number": 886
+          },
+          {
+            "timestamp": 29.566666666666666,
+            "confidence": 0.7,
+            "frame_number": 887
+          },
+          {
+            "timestamp": 32.5,
+            "confidence": 0.7,
+            "frame_number": 975
+          },
+          {
+            "timestamp": 32.53333333333333,
+            "confidence": 0.7,
+            "frame_number": 976
+          }
+        ]
+      },
+      "kick_out": {
+        "detected_count": 11,
+        "max_confidence": 1.0,
+        "avg_confidence": 0.7727272727272727,
+        "detections": [
+          {
+            "timestamp": 23.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 710
+          },
+          {
+            "timestamp": 23.7,
+            "confidence": 0.7,
+            "frame_number": 711
+          },
+          {
+            "timestamp": 26.566666666666666,
+            "confidence": 0.6,
+            "frame_number": 797
+          },
+          {
+            "timestamp": 26.6,
+            "confidence": 1.0,
+            "frame_number": 798
+          },
+          {
+            "timestamp": 26.633333333333333,
+            "confidence": 0.7,
+            "frame_number": 799
+          },
+          {
+            "timestamp": 26.666666666666668,
+            "confidence": 0.7,
+            "frame_number": 800
+          },
+          {
+            "timestamp": 26.766666666666666,
+            "confidence": 1.0,
+            "frame_number": 803
+          },
+          {
+            "timestamp": 26.8,
+            "confidence": 1.0,
+            "frame_number": 804
+          },
+          {
+            "timestamp": 26.833333333333332,
+            "confidence": 0.7,
+            "frame_number": 805
+          },
+          {
+            "timestamp": 31.133333333333333,
+            "confidence": 0.7,
+            "frame_number": 934
+          },
+          {
+            "timestamp": 31.166666666666668,
+            "confidence": 0.7,
+            "frame_number": 935
+          }
+        ]
+      },
+      "take_off": {
+        "detected_count": 4,
+        "max_confidence": 0.6,
+        "avg_confidence": 0.6,
+        "detections": [
+          {
+            "timestamp": 26.566666666666666,
+            "confidence": 0.6,
+            "frame_number": 797
+          },
+          {
+            "timestamp": 26.6,
+            "confidence": 0.6,
+            "frame_number": 798
+          },
+          {
+            "timestamp": 26.633333333333333,
+            "confidence": 0.6,
+            "frame_number": 799
+          },
+          {
+            "timestamp": 26.666666666666668,
+            "confidence": 0.6,
+            "frame_number": 800
+          }
+        ]
+      }
+    }
+  },
+  "performance_score": {
+    "basic_maneuvers_score": 66.66666666666666,
+    "advanced_maneuvers_score": 83.33333333333334,
+    "overall_score": 75.0
+  },
+  "recommendations": [
+    "Practica la transici\u00f3n del take off para mayor fluidez"
+  ]
+}
